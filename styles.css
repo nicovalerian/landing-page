@@ -32,6 +32,10 @@ ul {
     justify-content: space-between;
 }
 
+.content {
+    flex-direction: column;
+}
+
 .right-link-header {
     padding: 12px;  
 }
@@ -45,7 +49,6 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
 }
-
 
 .left-link-header {
     padding: 12px;
