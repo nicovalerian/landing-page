@@ -64,12 +64,6 @@ ul {
 
 /* Content */
 
-.content-wrapper {
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-}
-
 .website-intro {
     
 }
