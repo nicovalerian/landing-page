@@ -29,8 +29,22 @@ ul {
 }
 
 .right-link-header {
-    display: flex;
+    padding: 12px;  
+}
 
+.right-link-header ul {
+    display: flex;
+    gap: 12px;
+}
+
+.right-link-header ul li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+.left-link-header {
+    padding: 12px;
 }
 
 .left-link-header ul li {
