@@ -15,6 +15,11 @@ ul {
     margin: 0;
 }
 
+.header, .footer, .content {
+    padding: 12px 168px;
+    display: flex;
+}
+
 .header, .footer, .website-intro {
     background-color: #1F2937;
 }
@@ -24,7 +29,6 @@ ul {
 }
 
 .header {
-    display: flex;
     justify-content: space-between;
 }
 
