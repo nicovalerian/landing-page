@@ -11,6 +11,8 @@ body {
 
 ul {
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .header, .footer, .website-intro {
@@ -23,10 +25,16 @@ ul {
 
 .header {
     display: flex;
+    justify-content: space-between;
+}
+
+.right-link-header {
+    display: flex;
+
 }
 
 .left-link-header ul li {
     font-size: 24px;
     color: #F9FAF8;
-    font-weight: bold;
+    font-weight: 900;
 }
