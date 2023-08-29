@@ -30,6 +30,7 @@ ul {
 
 .header {
     justify-content: space-between;
+    min-height: 84px;
 }
 
 .content {
