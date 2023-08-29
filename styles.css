@@ -67,5 +67,17 @@ ul {
 /* Content */
 
 .website-intro {
-    
+    display: flex;
+}
+
+.info-section {
+    display: flex;
+}
+
+.quote-section {
+    display: flex;
+}
+
+.signup-section {
+    display: flex;
 }
