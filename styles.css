@@ -68,7 +68,25 @@ ul {
 
 .website-intro {
     display: flex;
-    justify-content: space-between;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 84px 84px;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.intro-heading {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.heroimage {
+    width: 400px;
 }
 
 .info-section {
