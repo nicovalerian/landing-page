@@ -32,12 +32,17 @@ ul {
 .header {
     justify-content: space-between;
     min-height: 84px;
+    flex-shrink: 0;
 }
 
 .content {
     flex-direction: column;
     padding: 0;
     flex: 1;
+}
+
+.footer {
+    margin-top: auto;
 }
 
 .right-link-header {
@@ -69,14 +74,19 @@ ul {
 .website-intro {
     display: flex;
     align-items: flex-start;
-    gap: 24px;
-    padding: 84px 84px;
+    justify-content: space-around;
+    padding: 84px 0;
+    flex-shrink: 0;
 }
 
 .intro-text {
     display: flex;
     flex-direction: column;
-    width: 400px;
+}
+
+.intro-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .intro-heading {
