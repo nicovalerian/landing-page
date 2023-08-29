@@ -7,6 +7,10 @@ body {
     flex-direction: column;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .header, .footer {
     background-color: #1F2937;
 }
