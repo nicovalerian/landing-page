@@ -127,6 +127,10 @@ ul {
     align-items: center;
 }
 
+.info-cards {
+    display: flex;
+}
+
 .quote-section {
     display: flex;
     padding: 16px 180px;
