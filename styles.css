@@ -47,6 +47,7 @@ ul {
 }
 
 .right-link-header { 
+    padding-top: 12px;
 }
 
 .right-link-header ul {
@@ -60,6 +61,7 @@ ul {
 }
 
 .left-link-header {
+    padding-top: 12px;
 }
 
 .left-link-header ul li {
