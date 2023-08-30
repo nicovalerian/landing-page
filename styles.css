@@ -101,12 +101,15 @@ ul {
 
 .info-section {
     display: flex;
+    padding: 16px 168px;
 }
 
 .quote-section {
     display: flex;
+    padding: 16px 168px;
 }
 
 .signup-section {
     display: flex;
+    padding: 16px 168px;
 }
