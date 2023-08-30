@@ -202,3 +202,24 @@ ul {
     align-items: center;
     justify-content: space-between;
 }
+
+.signup-heading {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.signup-subtext {
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+.signup-normal {
+    background-color: #3882F6;
+    border-radius: 8px;
+    border: 2px white solid;
+    padding: 8px 32px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
