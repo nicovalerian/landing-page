@@ -169,6 +169,7 @@ ul {
 .quote-section {
     display: flex;
     padding: 16px 180px;
+    flex-direction: column;
 }
 
 .quote-text {
@@ -178,6 +179,10 @@ ul {
     color: #1F2937;
 }
 
+.quote-author-text {
+    display: flex;
+    justify-content: flex-end;
+}
 
 .signup-section {
     display: flex;
