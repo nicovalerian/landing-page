@@ -168,8 +168,9 @@ ul {
 
 .quote-section {
     display: flex;
-    padding: 16px 180px;
+    padding: 16px 244px;
     flex-direction: column;
+    gap: 32px;
 }
 
 .quote-text {
@@ -182,6 +183,7 @@ ul {
 .quote-author-text {
     display: flex;
     justify-content: flex-end;
+    font-weight: bold;
 }
 
 .signup-section {
