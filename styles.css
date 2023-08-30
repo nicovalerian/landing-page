@@ -138,12 +138,11 @@ ul {
     display: flex;
     gap: 12px;
     flex-direction: column;
-    align-items: center;
 }
 
 .info-img {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     border:#3882F6 4px solid;
     border-radius: 16px;
 }
