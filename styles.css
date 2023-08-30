@@ -46,8 +46,7 @@ ul {
     margin-top: auto;
 }
 
-.right-link-header {
-    padding: 12px;  
+.right-link-header { 
 }
 
 .right-link-header ul {
@@ -61,7 +60,6 @@ ul {
 }
 
 .left-link-header {
-    padding: 12px;
 }
 
 .left-link-header ul li {
