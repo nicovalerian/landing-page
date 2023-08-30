@@ -17,7 +17,7 @@ ul {
 }
 
 .header, .footer, .content {
-    padding: 12px 168px;
+    padding: 12px 180px;
     display: flex;
 }
 
@@ -31,7 +31,7 @@ ul {
 
 .header {
     justify-content: space-between;
-    min-height: 84px;
+    min-height: 168px;
     flex-shrink: 0;
 }
 
@@ -75,7 +75,7 @@ ul {
     display: flex;
     align-items: flex-start;
     justify-content: space-around;
-    padding: 16px 168px;
+    padding: 16px 180px;
     flex-shrink: 0;
 }
 
@@ -101,15 +101,15 @@ ul {
 
 .info-section {
     display: flex;
-    padding: 16px 168px;
+    padding: 16px 180px;
 }
 
 .quote-section {
     display: flex;
-    padding: 16px 168px;
+    padding: 16px 180px;
 }
 
 .signup-section {
     display: flex;
-    padding: 16px 168px;
+    padding: 16px 180px;
 }
