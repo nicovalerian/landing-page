@@ -77,6 +77,7 @@ ul {
     justify-content: space-around;
     padding: 16px 180px;
     flex-shrink: 0;
+    gap: 64px;
 }
 
 .intro-text {
@@ -96,8 +97,8 @@ ul {
 }
 
 .intro-image {
-    height: 200px;
-    width: 800px;
+    height: 250px;
+    width: 900px;
 }
 
 .heroimage {
