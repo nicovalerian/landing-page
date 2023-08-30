@@ -123,6 +123,8 @@ ul {
 .info-section {
     display: flex;
     padding: 16px 180px;
+    flex-direction: column;
+    align-items: center;
 }
 
 .quote-section {
