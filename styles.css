@@ -84,6 +84,7 @@ ul {
 .intro-text {
     display: flex;
     flex-direction: column;
+    gap: 8px;
 }
 
 .intro-subtext {
@@ -108,7 +109,17 @@ ul {
     object-fit: cover;
 }
 
-.info-section {
+.signup {
+    background-color: #3882F6;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 32px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.info-se    ction {
     display: flex;
     padding: 16px 180px;
 }
