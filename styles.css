@@ -95,6 +95,11 @@ ul {
     color: #f9faf8;
 }
 
+.intro-image {
+    height: 200px;
+    width: 800px;
+}
+
 .heroimage {
     height: 100%;
     width: 100%;
