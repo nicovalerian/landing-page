@@ -171,6 +171,14 @@ ul {
     padding: 16px 180px;
 }
 
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+
 .signup-section {
     display: flex;
     padding: 16px 180px;
