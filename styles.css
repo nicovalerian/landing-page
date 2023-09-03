@@ -189,6 +189,7 @@ ul {
     display: flex;
     justify-content: flex-end;
     font-weight: bold;
+    font-size: 22px;
 }
 
 .signup-section {
